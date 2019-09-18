@@ -306,3 +306,6 @@
                 }
             }
             ```
+    * ![custom_analyzer5](./images/custom_analyzer5.png) 
+
+    * ![custom_analyzer6](./images/custom_analyzer6.png) 
